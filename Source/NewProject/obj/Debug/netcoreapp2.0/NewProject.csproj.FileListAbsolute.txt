@@ -1,0 +1,11 @@
+C:\Git_Root\Test\Source\NewProject\bin\Debug\netcoreapp2.0\NewProject.deps.json
+C:\Git_Root\Test\Source\NewProject\bin\Debug\netcoreapp2.0\NewProject.runtimeconfig.json
+C:\Git_Root\Test\Source\NewProject\bin\Debug\netcoreapp2.0\NewProject.runtimeconfig.dev.json
+C:\Git_Root\Test\Source\NewProject\bin\Debug\netcoreapp2.0\NewProject.dll
+C:\Git_Root\Test\Source\NewProject\bin\Debug\netcoreapp2.0\NewProject.pdb
+C:\Git_Root\Test\Source\NewProject\obj\Debug\netcoreapp2.0\NewProject.csprojResolveAssemblyReference.cache
+C:\Git_Root\Test\Source\NewProject\obj\Debug\netcoreapp2.0\NewProject.csproj.CoreCompileInputs.cache
+C:\Git_Root\Test\Source\NewProject\obj\Debug\netcoreapp2.0\NewProject.AssemblyInfoInputs.cache
+C:\Git_Root\Test\Source\NewProject\obj\Debug\netcoreapp2.0\NewProject.AssemblyInfo.cs
+C:\Git_Root\Test\Source\NewProject\obj\Debug\netcoreapp2.0\NewProject.dll
+C:\Git_Root\Test\Source\NewProject\obj\Debug\netcoreapp2.0\NewProject.pdb
